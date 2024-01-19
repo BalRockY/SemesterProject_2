@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bc554a3c5980044b775d7cef44a788, type: 3}
+  m_Name: Common Crystal
+  m_EditorClassIdentifier: 
+  questID: 2
+  questName: Common Crystals
+  questGiver: Jasqar
+  questDescription: Jarsqar need your help to collect some crystals, the crystals
+    that he needs are pertty common and you should be able to find them out in the
+    cave systems.
+  questShortDescription: Collect 5 Common Crystals
+  trigger: {fileID: 0}
+  item: {fileID: 11400000, guid: 1bbcf6988fdd5c442979cc275e0dc757, type: 2}
+  itemAmountRequired: 5
+  questTypes: 1
+  unlockQuestIDs: 
+  isActive: 1
+  isCompleted: 1

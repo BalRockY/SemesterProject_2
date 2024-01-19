@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc87454c6233314b8e0883f0cdd7394, type: 3}
+  m_Name: Camp1_Dialog_Old
+  m_EditorClassIdentifier: 
+  id: 2
+  npcName: Jasqar
+  playerName: Bashu
+  dialogueObject:
+  - currentDialogueLine: 0
+    dialogue: 'Well @player now that you are trianed for basic suvival in the caves
+      you are ready to take your skills into the field. what do you say ready for
+      some real training? While you are out there can you do me a little favor? '
+    nextLine:
+    - playerResponses: Sure I can help you out.
+      nextDialogueLine: 1
+    - playerResponses: All I have been diong is traning, why?
+      nextDialogueLine: 2
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 2
+    dialogue: You see @player after what happend with your father the City is just
+      not save for you any more. And I know from my time in the cave systems that
+      they are no joke. Thats why we train!
+    nextLine:
+    - playerResponses: I see, how can i help?
+      nextDialogueLine: 1
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 1
+    dialogue: Out in the cave systems common crystals can apere. These crystals can
+      be used for many different things depending on thier color, but you can just
+      bring me 5 common crystals.
+    nextLine:
+    - playerResponses: You got it old man!
+      nextDialogueLine: 3
+    _dialoguetype: 1
+    _triggerEvent: 1
+    audio: {fileID: 0}
+  quest: {fileID: 11400000, guid: 4e83c33dad233fa4195de869b54e5f7e, type: 2}
+  item: {fileID: 0}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bc554a3c5980044b775d7cef44a788, type: 3}
+  m_Name: TutorialQuest
+  m_EditorClassIdentifier: 
+  questID: 1
+  questName: Tuturial
+  questGiver: Jasqar
+  questDescription: Complete the little cave tutorial level and get back to Jasqar
+    with the metal object.
+  questShortDescription: Complete the little cave tutorial level
+  trigger: {fileID: 0}
+  item: {fileID: 11400000, guid: 955cd804bafdb5149b24cf17b1c00888, type: 2}
+  itemAmountRequired: 1
+  questTypes: 1
+  unlockQuestIDs: 
+  isActive: 0
+  isCompleted: 0

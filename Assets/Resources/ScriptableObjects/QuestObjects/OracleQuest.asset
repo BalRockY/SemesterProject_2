@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bc554a3c5980044b775d7cef44a788, type: 3}
+  m_Name: OracleQuest
+  m_EditorClassIdentifier: 
+  questID: 0
+  questName: The Prophecy
+  questGiver: Oracle
+  questDescription: " It seems that all of this is bigger than what I first expected.
+    Apparently I will have to merge Darkness and Light together, \r\nusing this crystal.\r\n\r\nFor
+    now return to Jasqar."
+  questShortDescription: Return to Jasqar
+  trigger: {fileID: 0}
+  item: {fileID: 0}
+  itemAmountRequired: 0
+  questTypes: 0
+  unlockQuestIDs: 
+  isActive: 1
+  isCompleted: 0

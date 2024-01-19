@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc87454c6233314b8e0883f0cdd7394, type: 3}
+  m_Name: Mentor01
+  m_EditorClassIdentifier: 
+  id: 0
+  npcName: Jasqar
+  playerName: Bashu
+  dialogueObject:
+  - currentDialogueLine: 0
+    dialogue: "Your vision is blurred and echoes of an increasingly louder voice
+      pierces\r\n      your mind..."
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 1
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 1
+    dialogue: "@player, @player wake up!\r\r\nThere is no time to idle.\r They will
+      be back anytime soon and I can distract them no longer."
+    nextLine:
+    - playerResponses: Huh?
+      nextDialogueLine: 2
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 2
+    dialogue: "Your head hurts and his voice is muffled as you feel a big bump on\r
+      your forehead."
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 3
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 3
+    dialogue: "Did you hear me?\r\nYou must hurry, take this note, it''ll show\r
+      you where you can escape.\r\nNow take the staircase and go down below and\r
+      let no guard see you."
+    nextLine:
+    - playerResponses: What, what, happened?
+      nextDialogueLine: 4
+    - playerResponses: What is this? *looks at note*
+      nextDialogueLine: 5
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 4
+    dialogue: "Your father has been exiled and now they are coming for you. As a
+      friend\r of your father I promised him to look after you. You must trust me,
+      escape\r with haste before they catch you."
+    nextLine:
+    - playerResponses: ...what is this note you passed me?
+      nextDialogueLine: 6
+    - playerResponses: Where is my father?
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 5
+    dialogue: It's directions to a key that leads to a hidden entrance, but there's
+      no time for details. Read it later
+    nextLine:
+    - playerResponses: What happened?
+      nextDialogueLine: 7
+    - playerResponses: Where is my father?
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 6
+    dialogue: "It's directions to a key that leads to a hidden entrance, but there's\r
+      no time for details. Read it later"
+    nextLine:
+    - playerResponses: ...but where is my father?
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 7
+    dialogue: "Your father has been exiled and now they are coming for you. As a
+      friend\r of your father I promised him to look after you. You must trust me,
+      escape\r  with haste before they catch you."
+    nextLine:
+    - playerResponses: ...but where is my father?
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 8
+    dialogue: There's no time to explain, I'll tell you later, now go!
+    nextLine:
+    - playerResponses: but...
+      nextDialogueLine: 9
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 9
+    dialogue: "Before you get to read the note, you're being shoved towards the spiral\r
+      staircase."
+    nextLine:
+    - playerResponses: I'm scared.
+      nextDialogueLine: 10
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 10
+    dialogue: Stay calm, you're a clever boy. Read it and I'll see you on the other
+      side.
+    nextLine:
+    - playerResponses: End conversation.
+      nextDialogueLine: 11
+    _dialoguetype: 1
+    _triggerEvent: 1
+    audio: {fileID: 0}
+  - currentDialogueLine: 11
+    dialogue: "// HAS NO FUNCTION BUT TO END THE DIALOGUE - NOT OPTIMAL, BUT WORKING\r\n     
+      ATM"
+    nextLine:
+    - playerResponses: End conversation.
+      nextDialogueLine: 12
+    _dialoguetype: 2
+    _triggerEvent: 1
+    audio: {fileID: 0}
+  quest: {fileID: 11400000, guid: ce896f80c414b194b96f0eb4ce425f42, type: 2}
+  item: {fileID: 0}

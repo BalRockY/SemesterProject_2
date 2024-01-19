@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bc554a3c5980044b775d7cef44a788, type: 3}
+  m_Name: TheRareCrystal
+  m_EditorClassIdentifier: 
+  questID: 0
+  questName: The Rare Crystal
+  questGiver: Jasqar
+  questDescription: 'You must find 3 pieces of a document, which will contain the
+    coordinates to finding the rare crystal.
+
+
+    Find the rare crystal and return
+    it to Jasqar.'
+  questShortDescription: Find 3 Fragments of Parchment and Find the Rare Crystal
+    and then return it to Jasqar
+  trigger: {fileID: 0}
+  item: {fileID: 11400000, guid: 5d6e19b0c9be54645944708ba9539b82, type: 2}
+  itemAmountRequired: 3
+  questTypes: 1
+  unlockQuestIDs: 
+  isActive: 1
+  isCompleted: 1

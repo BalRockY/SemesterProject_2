@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc87454c6233314b8e0883f0cdd7394, type: 3}
+  m_Name: Camp2_Dialog
+  m_EditorClassIdentifier: 
+  id: 0
+  npcName: Jasqar
+  playerName: Bashu
+  dialogueObject:
+  - currentDialogueLine: 0
+    dialogue: Good job, finding those crystals! Now give them to me!
+    nextLine:
+    - playerResponses: (Hand over Crystals)
+      nextDialogueLine: 1
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 1
+    dialogue: '@npc pulls out some sort of device and inserts the crystals, one by
+      one, into it. The crystals seem to fade in colour and the device is emitting
+      more light'
+    nextLine:
+    - playerResponses: Continue
+      nextDialogueLine: 2
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 2
+    dialogue: There we go! *With a smirk on his face*
+    nextLine:
+    - playerResponses: Wow, you drained them completly!
+      nextDialogueLine: 3
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 3
+    dialogue: "That is how we do! Now I have one more thing I need you to do. I need
+      you to collect a very rare crystal for me. This will be the final piece\r of
+      the puzzle we need, in order to save your father."
+    nextLine:
+    - playerResponses: ' Tell me! I''ll do anything to get him back!'
+      nextDialogueLine: 4
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 4
+    dialogue: "The coordinates for the crystal is written down on a document. Your
+      father has cut this document into 3 pieces\r and has hidden them in 3 different
+      locations around in these nearby caves. Find the pieces, and find the location
+      of the crystal.\r When you're done, return the rare crystal to me!"
+    nextLine:
+    - playerResponses: You said that, that was just a rumor?
+      nextDialogueLine: 5
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 5
+    dialogue: Do you want your father back or not?! If you really do, then do as
+      you are told!
+    nextLine:
+    - playerResponses: I do this for him and not you!
+      nextDialogueLine: 6
+    _dialoguetype: 1
+    _triggerEvent: 1
+    audio: {fileID: 0}
+  - currentDialogueLine: 6
+    dialogue: PlaceHolderCamp2
+    nextLine: []
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  quest: {fileID: 11400000, guid: fb87c8eb1635e3147be161eee97eeb77, type: 2}
+  item: {fileID: 11400000, guid: 5d6e19b0c9be54645944708ba9539b82, type: 2}

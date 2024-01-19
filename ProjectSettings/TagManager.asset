@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Avatar_P0
+  - CampScene-DoorExit-1_P1
+  - CampScene-DoorExit-2_P1
+  - CampScene-DoorExit-3_P1
+  - CampScene-DoorExit-4_P1
+  - CampScene-DoorExit-5_P1
+  - CityScene-DoorExit-1_P1
+  - CityScene-DoorExit-2_P1
+  - CityScene-DoorExit-3_P1
+  - DoorExit_P1
+  - Friend_P1
+  - InvisibleAH1_P1
+  - InvisibleAH2_P1
+  - InvisibleAH3_P1
+  - Mentor_P1
+  - Oracle_P1
+  - OracleScene-DoorExit-1_P1
+  - OracleScene-DoorExit-2_P1
+  - OracleScene-DoorExit-3_P1
+  - PCG-DoorAction-1_P1
+  - PCG-DoorAction-2_P1
+  - PCG-DoorAction-3_P1
+  - UnivFlyingPCG-NPC_P1
+  - UnivWalkingPCG-NPC_P1
+  - Guard
+  - SaveLoadTilemapAsJSON
+  - Item
+  - TutorialScene-DoorExit-1_P1
+  - TutorialScene-DoorExit-2_P1
+  - TutorialScene-DoorExit-3_P1
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Statics
+  - Rope
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3900827185
+    locked: 0
+  - name: Middleground
+    uniqueID: 2402480153
+    locked: 0
+  - name: Foreground
+    uniqueID: 608096705
+    locked: 0

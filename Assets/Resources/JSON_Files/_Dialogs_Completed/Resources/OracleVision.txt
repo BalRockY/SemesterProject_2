@@ -1,0 +1,63 @@
+{
+"saveObject_Array":
+[
+
+
+{
+"colour":"000000",
+"text":"0 - You feel dizzy and get surprised by a 'being' in front of you."
+},
+
+{
+"colour":"53DEC2",
+"text":"1 - You  -  HEY! Who or what are you?"
+},
+
+{
+"colour":"874343",
+"text":"2 - Creature  -  Silence boy, and listen ..."
+},
+
+{
+"colour":"000000",
+"text":"3 - You freeze"
+},
+
+{
+"colour":"874343",
+"text":"4 - Creature  -  You could certainly do with some more knowledge, but i doubt that you can handle it."
+},
+
+{
+"colour":"53DEC2",
+"text":"5 - You  -  I know enough; you make it sound as if knowledge is something special."
+},
+
+{
+"colour":"874343",
+"text":"6 - Creature  -  SILENCE."
+},
+
+{
+"colour":"874343",
+"text":"7 - Creature  -  You people are so destructive ... I had hoped you were different."
+},
+
+{
+"colour":"53DEC2",
+"text":"8 - You  -   . . . . . . . ?"
+},
+
+{
+"colour":"874343",
+"text":"9 - Creature  -  Before long you will have important things to do, if you are up to it. We just might meet again."
+},
+
+{
+"colour":"874343",
+"text":"10 - Creature  -  Perhaps you have become aware that this is not a normal dream, but you have to get up now ... WAKE UP."
+}
+
+
+]
+}

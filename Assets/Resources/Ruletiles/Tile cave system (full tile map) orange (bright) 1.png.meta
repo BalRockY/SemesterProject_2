@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: 471e1204a08d48f4e9db854b79e3193c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3333779163829009828
+    second: Tile cave system (full tile map) orange (bright) 1_0
+  - first:
+      213: -5707644669380451996
+    second: Tile cave system (full tile map) orange (bright) 1_1
+  - first:
+      213: -1179113699732089796
+    second: Tile cave system (full tile map) orange (bright) 1_2
+  - first:
+      213: -3973244482901912325
+    second: Tile cave system (full tile map) orange (bright) 1_3
+  - first:
+      213: 3071004085612981737
+    second: Tile cave system (full tile map) orange (bright) 1_4
+  - first:
+      213: 858205168464632630
+    second: Tile cave system (full tile map) orange (bright) 1_5
+  - first:
+      213: -5738320266332645900
+    second: Tile cave system (full tile map) orange (bright) 1_6
+  - first:
+      213: 104549882173920526
+    second: Tile cave system (full tile map) orange (bright) 1_7
+  - first:
+      213: -2534567027313130277
+    second: Tile cave system (full tile map) orange (bright) 1_8
+  - first:
+      213: 4134013955309800391
+    second: Tile cave system (full tile map) orange (bright) 1_9
+  - first:
+      213: -214523783412020039
+    second: Tile cave system (full tile map) orange (bright) 1_10
+  - first:
+      213: 658025464467631508
+    second: Tile cave system (full tile map) orange (bright) 1_11
+  - first:
+      213: -5463905133355483662
+    second: Tile cave system (full tile map) orange (bright) 1_12
+  - first:
+      213: 5463571552149378776
+    second: Tile cave system (full tile map) orange (bright) 1_13
+  - first:
+      213: 3350981544692303293
+    second: Tile cave system (full tile map) orange (bright) 1_14
+  - first:
+      213: -2587065913518156554
+    second: Tile cave system (full tile map) orange (bright) 1_15
+  - first:
+      213: -6161280419766307688
+    second: Tile cave system (full tile map) orange (bright) 1_16
+  - first:
+      213: 8179835177581840848
+    second: Tile cave system (full tile map) orange (bright) 1_17
+  - first:
+      213: -6299868638169783296
+    second: Tile cave system (full tile map) orange (bright) 1_18
+  - first:
+      213: -5311284785532756255
+    second: Tile cave system (full tile map) orange (bright) 1_19
+  - first:
+      213: -6147743745295744825
+    second: Tile cave system (full tile map) orange (bright) 1_20
+  - first:
+      213: 7881452165503326730
+    second: Tile cave system (full tile map) orange (bright) 1_21
+  - first:
+      213: -1431414577679216063
+    second: Tile cave system (full tile map) orange (bright) 1_22
+  - first:
+      213: 5687458284579436453
+    second: Tile cave system (full tile map) orange (bright) 1_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad70a38c76f34e20800000000000000
+      internalID: 3333779163829009828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612d61e96f5ac0b0800000000000000
+      internalID: -5707644669380451996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341ca95652f2afe0800000000000000
+      internalID: -1179113699732089796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d9d6a1333cd8c0800000000000000
+      internalID: -3973244482901912325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2cbae1f56e9a20800000000000000
+      internalID: 3071004085612981737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1db2cd05f8eb00800000000000000
+      internalID: 858205168464632630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f551d5ee146d50b0800000000000000
+      internalID: -5738320266332645900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05194c509f637100800000000000000
+      internalID: 104549882173920526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44595a7b863dcd0800000000000000
+      internalID: -2534567027313130277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8fb61ac7fe5930800000000000000
+      internalID: 4134013955309800391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8add61cbd50df0800000000000000
+      internalID: -214523783412020039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d21ce6ca6c12900800000000000000
+      internalID: 658025464467631508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdb9efea3f4c24b0800000000000000
+      internalID: -5463905133355483662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d61bc2216182db40800000000000000
+      internalID: 5463571552149378776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5464ce5f3118e20800000000000000
+      internalID: 3350981544692303293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49a3e2245e81cd0800000000000000
+      internalID: -2587065913518156554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89472422a1cbe7aa0800000000000000
+      internalID: -6161280419766307688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9820161cc948170800000000000000
+      internalID: 8179835177581840848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004244a0ade5298a0800000000000000
+      internalID: -6299868638169783296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1261c0a68a46b0800000000000000
+      internalID: -5311284785532756255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08483c2a3deaaa0800000000000000
+      internalID: -6147743745295744825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1f0f9cfa806d60800000000000000
+      internalID: 7881452165503326730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1425d1b8608922ce0800000000000000
+      internalID: -1431414577679216063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile cave system (full tile map) orange (bright) 1_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b5372d29edee40800000000000000
+      internalID: 5687458284579436453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tile cave system (full tile map) orange (bright) 1_20: -6147743745295744825
+      Tile cave system (full tile map) orange (bright) 1_7: 104549882173920526
+      Tile cave system (full tile map) orange (bright) 1_1: -5707644669380451996
+      Tile cave system (full tile map) orange (bright) 1_10: -214523783412020039
+      Tile cave system (full tile map) orange (bright) 1_18: -6299868638169783296
+      Tile cave system (full tile map) orange (bright) 1_16: -6161280419766307688
+      Tile cave system (full tile map) orange (bright) 1_0: 3333779163829009828
+      Tile cave system (full tile map) orange (bright) 1_2: -1179113699732089796
+      Tile cave system (full tile map) orange (bright) 1_11: 658025464467631508
+      Tile cave system (full tile map) orange (bright) 1_13: 5463571552149378776
+      Tile cave system (full tile map) orange (bright) 1_12: -5463905133355483662
+      Tile cave system (full tile map) orange (bright) 1_9: 4134013955309800391
+      Tile cave system (full tile map) orange (bright) 1_14: 3350981544692303293
+      Tile cave system (full tile map) orange (bright) 1_23: 5687458284579436453
+      Tile cave system (full tile map) orange (bright) 1_21: 7881452165503326730
+      Tile cave system (full tile map) orange (bright) 1_15: -2587065913518156554
+      Tile cave system (full tile map) orange (bright) 1_6: -5738320266332645900
+      Tile cave system (full tile map) orange (bright) 1_3: -3973244482901912325
+      Tile cave system (full tile map) orange (bright) 1_19: -5311284785532756255
+      Tile cave system (full tile map) orange (bright) 1_4: 3071004085612981737
+      Tile cave system (full tile map) orange (bright) 1_8: -2534567027313130277
+      Tile cave system (full tile map) orange (bright) 1_17: 8179835177581840848
+      Tile cave system (full tile map) orange (bright) 1_22: -1431414577679216063
+      Tile cave system (full tile map) orange (bright) 1_5: 858205168464632630
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

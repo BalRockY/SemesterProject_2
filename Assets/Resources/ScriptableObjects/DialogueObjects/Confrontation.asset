@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc87454c6233314b8e0883f0cdd7394, type: 3}
+  m_Name: Confrontation
+  m_EditorClassIdentifier: 
+  id: 0
+  npcName: Jasqar
+  playerName: Bashu
+  dialogueObject:
+  - currentDialogueLine: 0
+    dialogue: 'ahh you have returned boy, how was your travels, no, never mind that,
+      I am sure it all went well. More important, did you get what I asked for? '
+    nextLine:
+    - playerResponses: Yes!
+      nextDialogueLine: 1
+    - playerResponses: No, I couldn't find it!
+      nextDialogueLine: 2
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 1
+    dialogue: Good, now give me the crystal!
+    nextLine:
+    - playerResponses: OK, here take it!
+      nextDialogueLine: 3
+    - playerResponses: No, I won't give it to you!
+      nextDialogueLine: 4
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 2
+    dialogue: You are lying to me, boy!
+    nextLine:
+    - playerResponses: OK, yes you caught me, I'm lying.
+      nextDialogueLine: 1
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 3
+    dialogue: Good boy! *Grins wickedly*
+    nextLine:
+    - playerResponses: End conversation.
+      nextDialogueLine: 10
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 4
+    dialogue: What?! Don't you wanna save your father?!
+    nextLine:
+    - playerResponses: Yes, you're right, here take the crystal!
+      nextDialogueLine: 3
+    - playerResponses: Yes, but I don't think you want to use the crystal for saving
+        my father. I think you want it for your own benefit.
+      nextDialogueLine: 5
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 5
+    dialogue: Who do you think you are? After all I have done for you, and you are
+      still questioning my motives!
+    nextLine:
+    - playerResponses: Yes! I do, you could have saved my father, but you did nothing!
+      nextDialogueLine: 6
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 6
+    dialogue: 'Yes I could have done more for him, yet I was not the one that got
+      him exiled to start with. That was you, you hybrid freak! '
+    nextLine:
+    - playerResponses: What? Hybrid?
+      nextDialogueLine: 7
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 7
+    dialogue: "You foolish peach of\u2026 Do you know how long I have been wanting
+      for this, do you know what I had to go through to get to were I am now? Only
+      for you to strip it away from me at the finish line. Very well then, if you
+      won't give it to me willfully, I will merely take it by force!"
+    nextLine:
+    - playerResponses: Bring it old man!
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 8
+    dialogue: PlaceHolderConfrontation
+    nextLine:
+    - playerResponses: Bring it old man!
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  quest: {fileID: 0}
+  item: {fileID: 0}

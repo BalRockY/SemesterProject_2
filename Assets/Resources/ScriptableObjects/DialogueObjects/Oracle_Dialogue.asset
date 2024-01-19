@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc87454c6233314b8e0883f0cdd7394, type: 3}
+  m_Name: Oracle_Dialogue
+  m_EditorClassIdentifier: 
+  id: 0
+  npcName: Grotesque Being
+  playerName: Bashu
+  dialogueObject:
+  - currentDialogueLine: 0
+    dialogue: An odd, distinct smell fills the air. @player cannot determine wether
+      this smell is good or bad...
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 1
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 1
+    dialogue: Suddenly, before him arises something... Something living.
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 2
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 2
+    dialogue: 'The creature is nothing @player could have ever imagined. It is completely
+      senseless looking, with pale skin and a deform body
+
+      that have what seems
+      like roots growing out of it.'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 3
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 3
+    dialogue: The creature looks at @player.
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 4
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 4
+    dialogue: '@player freeze in motion, unable to move.'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 5
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 5
+    dialogue: "\rA long pause, the creature just stares at @player.\n\nHe is unable
+      to speak.\r\n\nEventually the creature breaks the silence."
+    nextLine:
+    - playerResponses: Continue
+      nextDialogueLine: 6
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 6
+    dialogue: Finally, you have come, boy!
+    nextLine:
+    - playerResponses: Wha.. What are you??
+      nextDialogueLine: 7
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 69eaa4cc71624934bb7f8af1fbd0a682, type: 3}
+  - currentDialogueLine: 7
+    dialogue: I am the voice of this world. The translater. The oracle. Whatever
+      you want to call me.
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 8
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: c7f25ad5b173f8c4b9257d2b45d8efbb, type: 3}
+  - currentDialogueLine: 8
+    dialogue: '@player stares... Blinks... Mouth open...'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 9
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 9
+    dialogue: 'I did not expect a lesser being like you to give me any credit..
+
+
+      Doesn''t
+      matter, now listen, boy!'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 10
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 40ce63d9ef10f3a4b8ba25ecacd62ec6, type: 3}
+  - currentDialogueLine: 10
+    dialogue: '@player still mouth open...'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 11
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 11
+    dialogue: Are you listening?!
+    nextLine:
+    - playerResponses: Dude - What is up with the Unibrow? Can't stop staring at
+        it!! It's so... Massive!!
+      nextDialogueLine: 12
+    - playerResponses: How long have you been down here?? I seems like you are growing
+        roots!
+      nextDialogueLine: 14
+    - playerResponses: Yes I am listening!
+      nextDialogueLine: 16
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 9067bdbe0258a93498014009a8e95766, type: 3}
+  - currentDialogueLine: 12
+    dialogue: My species is know for having very dense hairgrowth around the eyes,
+      yes... And so what??
+    nextLine:
+    - playerResponses: How long have you been down here?? I seems like you are growing
+        roots!
+      nextDialogueLine: 13
+    - playerResponses: Yes I am listening!
+      nextDialogueLine: 16
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 0d4310f92cc79c94c8267f4df252e244, type: 3}
+  - currentDialogueLine: 13
+    dialogue: "I have been slumbering, forgotten thoughts... I have not need anything,
+      anyone... I... Roots??? Ohh... Eeeh... \r\nHrm... Don't ask me these questions!
+      They are not of any importance!!"
+    nextLine:
+    - playerResponses: Yes I am listening!
+      nextDialogueLine: 16
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: e856e1ed883306c48907b57f50287f68, type: 3}
+  - currentDialogueLine: 14
+    dialogue: "I have been slumbering, forgotten thoughts... I have not need anything,
+      anyone... I... Roots??? Ohh... Eeeh... \r\nHrm... Don't ask me these questions!
+      They are not of any importance!!"
+    nextLine:
+    - playerResponses: OK, but dude - What is up with the Unibrow? Can't stop staring
+        at it!! It's so... Massive!!
+      nextDialogueLine: 15
+    - playerResponses: Yes I am listening!
+      nextDialogueLine: 0
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: e856e1ed883306c48907b57f50287f68, type: 3}
+  - currentDialogueLine: 15
+    dialogue: My species is know for having very dense hairgrowth around the eyes,
+      yes... And so what??
+    nextLine:
+    - playerResponses: Yes I am listening!
+      nextDialogueLine: 16
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 0d4310f92cc79c94c8267f4df252e244, type: 3}
+  - currentDialogueLine: 16
+    dialogue: 'Good! The time has come to choose! Night and day is being severed...
+      Split into two! Yet they cannot exist independently.
+
+      What does this
+      mean, you may ask, and I will tell you! It means that the world is ending.
+      Unless...'
+    nextLine:
+    - playerResponses: Night and day?
+      nextDialogueLine: 17
+    - playerResponses: What do you mean the world is ending?
+      nextDialogueLine: 19
+    - playerResponses: Unless what?
+      nextDialogueLine: 21
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: a8fb81e7215259f43ac926ef2e5ded67, type: 3}
+  - currentDialogueLine: 17
+    dialogue: "The two brothers: The dark and the light. When this world was born,
+      the Night and Day was born with it, coexisting in an eternal bond.\r Without
+      them, this world would not be anything you could perceive."
+    nextLine:
+    - playerResponses: What do you mean the world is ending?
+      nextDialogueLine: 18
+    - playerResponses: Unless what?
+      nextDialogueLine: 21
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 0b5ecb96c66a95a488ffbb54af5cf8b8, type: 3}
+  - currentDialogueLine: 18
+    dialogue: "If the Night and the Day manages to sever into 2 seperates, this world
+      would split, and the existance of all life would perish.\r What else would
+      happen, I do not know, but I know it would be very, very painful for living
+      beings like you and me."
+    nextLine:
+    - playerResponses: Unless what?
+      nextDialogueLine: 21
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 7655e4b1a20d94749b236eb0d30bc639, type: 3}
+  - currentDialogueLine: 19
+    dialogue: "If the Night and the Day manages to sever into two seperates, this
+      world would split, and the existance of all life would perish.\r What else
+      would happen, I do not know, but I know it would be very, very painful for
+      living beings like you and me."
+    nextLine:
+    - playerResponses: Night and day?
+      nextDialogueLine: 20
+    - playerResponses: Unless what?
+      nextDialogueLine: 21
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 7655e4b1a20d94749b236eb0d30bc639, type: 3}
+  - currentDialogueLine: 20
+    dialogue: "The two brothers: The dark and the light. When this world was born,
+      the Night and Day was born with it, coexisting in an eternal bond.\r Without
+      them, this world would not be anything you could perceive."
+    nextLine:
+    - playerResponses: Unless what?
+      nextDialogueLine: 21
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 0b5ecb96c66a95a488ffbb54af5cf8b8, type: 3}
+  - currentDialogueLine: 21
+    dialogue: Unless you figure out a way to bind the two together again... Merge
+      the dark and the light. Make peace between them.
+    nextLine:
+    - playerResponses: How do I make peace between the Dark and the Light?
+      nextDialogueLine: 22
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 79a4bdadc91cae8409ff8544568950e9, type: 3}
+  - currentDialogueLine: 22
+    dialogue: 'You will have to make a choice somewhere down the line. A choice that
+      determines
+
+      the fate of this entire world.'
+    nextLine:
+    - playerResponses: But... but...
+      nextDialogueLine: 23
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 6117fc928b334204883f951463b8aa01, type: 3}
+  - currentDialogueLine: 23
+    dialogue: "Silence now, boy!! There is not enough time to explain... The crystal
+      you are holding emanates from the very core\r of this planet. It is the key
+      to binding the brothers of darkness and light together."
+    nextLine:
+    - playerResponses: How do I do that?
+      nextDialogueLine: 24
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: 0b8e72a28cd179649887e2dc3273ab05, type: 3}
+  - currentDialogueLine: 24
+    dialogue: That, you must figure out, boy! The fate of this entire world is in
+      your hands! Now, be on your way!
+    nextLine:
+    - playerResponses: Mr. Oracle, I am really confused.. I.. I.. Don't know.. How..
+      nextDialogueLine: 25
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 8300000, guid: a371181569791984b94a4062504a7728, type: 3}
+  - currentDialogueLine: 25
+    dialogue: Look over there!
+    nextLine:
+    - playerResponses: Turn around and look.
+      nextDialogueLine: 26
+    _dialoguetype: 1
+    _triggerEvent: 1
+    audio: {fileID: 8300000, guid: 0802248860bdaa243a2b05d18e8cc4b8, type: 3}
+  - currentDialogueLine: 26
+    dialogue: '@player turns around to look.'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 27
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 27
+    dialogue: '@player looks back at the creature, but now it''s gone.'
+    nextLine:
+    - playerResponses: Continue.
+      nextDialogueLine: 0
+    _dialoguetype: 2
+    _triggerEvent: 2
+    audio: {fileID: 0}
+  - currentDialogueLine: 28
+    dialogue: Placeholder dialogue item.
+    nextLine:
+    - playerResponses: 
+      nextDialogueLine: 0
+    _dialoguetype: 2
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  quest: {fileID: 11400000, guid: 7dba92709133a3740bcc242aa9cefaee, type: 2}
+  item: {fileID: 11400000, guid: 59804da69e35d4445893d35934e261dd, type: 2}

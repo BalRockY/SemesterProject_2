@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bc554a3c5980044b775d7cef44a788, type: 3}
+  m_Name: EscapeCity
+  m_EditorClassIdentifier: 
+  questID: 0
+  questName: Escape the City
+  questGiver: Jasqar
+  questDescription: "There is a secret entrance hidden in the lower layer that leads
+    out of the city. However it needs\r a particular key to unlock. Luckily I know
+    that the Mining Foreman has one such\r key in his office, right for the taking,
+    and when he is not out mining he wastes\r away all his time and money getting
+    drunk at the tavern.\r He keeps it in a locker right outside his house. Go \"borrow\"
+    that key and then find the secret entrance. If you make it I''ll find you on
+    the other side.\r\n\rRemember, don''t let the guards see you!\r\n\nRegards,\r\nJohn"
+  questShortDescription: Find the key and locate the hidden entrance to escape the
+    city
+  trigger: {fileID: 0}
+  item: {fileID: 11400000, guid: 142d5c00f84765a439915f6d5414a8a2, type: 2}
+  itemAmountRequired: 1
+  questTypes: 1
+  unlockQuestIDs: 02000000
+  isActive: 1
+  isCompleted: 1

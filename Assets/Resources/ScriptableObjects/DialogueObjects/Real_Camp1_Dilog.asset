@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc87454c6233314b8e0883f0cdd7394, type: 3}
+  m_Name: Real_Camp1_Dilog
+  m_EditorClassIdentifier: 
+  id: 0
+  npcName: Jasqar
+  playerName: Bashu
+  dialogueObject:
+  - currentDialogueLine: 0
+    dialogue: Ahh there you are @player this is my own little free haven. This will
+      be where we meet from now on, the city and the training grounds are not safe
+      anymore.
+    nextLine:
+    - playerResponses: Neat little place
+      nextDialogueLine: 1
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 1
+    dialogue: Well @player now that you are trained for basic survival in the caves
+      you are ready to take your skills into the field. what do you say ready for
+      some real training? While you are out there can you do me a little favor?
+    nextLine:
+    - playerResponses: Sure, I can help.
+      nextDialogueLine: 2
+    - playerResponses: 'All I have been doing is training, why? '
+      nextDialogueLine: 3
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 2
+    dialogue: Out in the cave systems common crystals can appear. These crystals
+      can be used for many different things depending on their color, but you can
+      just bring me 5 common crystals.
+    nextLine:
+    - playerResponses: You got it old man!
+      nextDialogueLine: 6
+    - playerResponses: 'Can you tell me more about these crystals? '
+      nextDialogueLine: 4
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 3
+    dialogue: You see @player after what happened with your father the City is just
+      not save for you anymore. And I know from my time in the cave systems that
+      they are no joke. Thats why we train!
+    nextLine:
+    - playerResponses: I see, how can I help?
+      nextDialogueLine: 2
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 4
+    dialogue: Sure @player, but not the whole story, I am not a historian. You see
+      common crystals are what we use in everyday tasks. The red ones for heat, the
+      green ones for medical use, that is some of their uses, if you have the right
+      tools for extracting the power from the crystals.
+    nextLine:
+    - playerResponses: 'Okay, but if they are the common ones, what are the uncommon
+        ones then? '
+      nextDialogueLine: 5
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 5
+    dialogue: There are some rumors that say that there is special crystal, that
+      hold the powers to do all sorts of things, but that is just rumors. I think
+      they call them common from lack of better name.
+    nextLine:
+    - playerResponses: I see, how can I help?
+      nextDialogueLine: 2
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  - currentDialogueLine: 6
+    dialogue: Thank you @player!
+    nextLine:
+    - playerResponses: End Convasation
+      nextDialogueLine: 7
+    _dialoguetype: 1
+    _triggerEvent: 1
+    audio: {fileID: 0}
+  - currentDialogueLine: 7
+    dialogue: PlaceHolderCamp
+    nextLine: []
+    _dialoguetype: 1
+    _triggerEvent: 0
+    audio: {fileID: 0}
+  quest: {fileID: 11400000, guid: 4e83c33dad233fa4195de869b54e5f7e, type: 2}
+  item: {fileID: 11400000, guid: 1bbcf6988fdd5c442979cc275e0dc757, type: 2}

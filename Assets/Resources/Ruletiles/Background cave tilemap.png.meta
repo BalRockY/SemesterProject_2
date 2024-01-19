@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: aa486c2f2fb01b1449fd7a17b81456fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6695365435210731818
+    second: Background cave tilemap_0
+  - first:
+      213: -3635053133487476711
+    second: Background cave tilemap_1
+  - first:
+      213: 7887462056646203540
+    second: Background cave tilemap_2
+  - first:
+      213: -8809471443067705558
+    second: Background cave tilemap_3
+  - first:
+      213: 1298434921119772871
+    second: Background cave tilemap_4
+  - first:
+      213: 9055574517912063944
+    second: Background cave tilemap_5
+  - first:
+      213: -1411653749017734884
+    second: Background cave tilemap_6
+  - first:
+      213: -2693056130110755348
+    second: Background cave tilemap_7
+  - first:
+      213: 6591020458266981928
+    second: Background cave tilemap_8
+  - first:
+      213: -1762401472078304506
+    second: Background cave tilemap_9
+  - first:
+      213: -2296875043418639279
+    second: Background cave tilemap_10
+  - first:
+      213: -3154223001274647440
+    second: Background cave tilemap_11
+  - first:
+      213: 579086135971985638
+    second: Background cave tilemap_12
+  - first:
+      213: -5669429094048235904
+    second: Background cave tilemap_13
+  - first:
+      213: -7718184882530615365
+    second: Background cave tilemap_14
+  - first:
+      213: 47964712911255544
+    second: Background cave tilemap_15
+  - first:
+      213: 555935283358251418
+    second: Background cave tilemap_16
+  - first:
+      213: -5200317006074327131
+    second: Background cave tilemap_17
+  - first:
+      213: 4880883567206503313
+    second: Background cave tilemap_18
+  - first:
+      213: 8153729066920273779
+    second: Background cave tilemap_19
+  - first:
+      213: 8652749329825841189
+    second: Background cave tilemap_20
+  - first:
+      213: -2678429373955337091
+    second: Background cave tilemap_21
+  - first:
+      213: 814108387310222148
+    second: Background cave tilemap_22
+  - first:
+      213: -8806165573716238407
+    second: Background cave tilemap_23
+  - first:
+      213: -5579780282808223822
+    second: Background cave tilemap_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background cave tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee5d83c984513a0800000000000000
+      internalID: -6695365435210731818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910fec63f62bd8dc0800000000000000
+      internalID: -3635053133487476711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d4c173f4e57d60800000000000000
+      internalID: 7887462056646203540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c07e4d6ea7f40210800000000000000
+      internalID: 1298434921119772871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf4a39ab0ddbad70800000000000000
+      internalID: 9055574517912063944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1113fff46cc86ce0800000000000000
+      internalID: -1411653749017734884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6f84d7b750aad0800000000000000
+      internalID: -2693056130110755348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 67
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154729f315cdf10e0800000000000000
+      internalID: -2296875043418639279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 70
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c78a264e2f934d0800000000000000
+      internalID: -3154223001274647440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b6f4c5c3590800800000000000000
+      internalID: 579086135971985638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 80
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbff8f5fdbf73e490800000000000000
+      internalID: -7718184882530615365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 48
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3776f84d26dd72170800000000000000
+      internalID: 8153729066920273779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520c4c6dbadb41870800000000000000
+      internalID: 8652749329825841189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d749b61ecae44dad0800000000000000
+      internalID: -2678429373955337091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bba42d34b4c4b00800000000000000
+      internalID: 814108387310222148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background cave tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7bc7e4563a092b0800000000000000
+      internalID: -5579780282808223822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Background cave tilemap_19: 8153729066920273779
+      Background cave tilemap_6: -1411653749017734884
+      Background cave tilemap_4: 1298434921119772871
+      Background cave tilemap_21: -2678429373955337091
+      Background cave tilemap_20: 8652749329825841189
+      Background cave tilemap_22: 814108387310222148
+      Background cave tilemap_0: -6695365435210731818
+      Background cave tilemap_7: -2693056130110755348
+      Background cave tilemap_24: -5579780282808223822
+      Background cave tilemap_1: -3635053133487476711
+      Background cave tilemap_12: 579086135971985638
+      Background cave tilemap_10: -2296875043418639279
+      Background cave tilemap_2: 7887462056646203540
+      Background cave tilemap_5: 9055574517912063944
+      Background cave tilemap_14: -7718184882530615365
+      Background cave tilemap_11: -3154223001274647440
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

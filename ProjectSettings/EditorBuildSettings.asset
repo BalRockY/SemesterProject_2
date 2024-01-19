@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_LoadingScene.unity
+    guid: 23efa875336acdb4397d39cab214f4dc
+  - enabled: 1
+    path: Assets/Scenes/1_TutorialScene.unity
+    guid: 39468779a7427c74dacae74e8883bd50
+  - enabled: 1
+    path: Assets/Scenes/2_CityScene.unity
+    guid: 72e87df03946f544a98aab4145e1f3d9
+  - enabled: 1
+    path: Assets/Scenes/3_OracleScene.unity
+    guid: 17116ae3508aab24783cfeb0ba5554eb
+  - enabled: 1
+    path: Assets/Scenes/4_CampScene.unity
+    guid: a8e36080c6f88d84c9f043ae8e9bf965
+  - enabled: 1
+    path: Assets/Scenes/5_PCG_SemiFullRandom_Scene.unity
+    guid: 9f1934a8e5a3a4d47af525e1def8a77c
+  - enabled: 1
+    path: Assets/Scenes/6_PCG_TrueFullRandom_Scene.unity
+    guid: 7d6b7d2380f299c40a685f08facaf7d9
+  - enabled: 1
+    path: Assets/Scenes/7_UnusedScene1.unity
+    guid: f441093a90a110247bb461dcfe980e35
+  - enabled: 1
+    path: Assets/Scenes/8_UnusedScene2.unity
+    guid: 18d5b17ae5d2d7843b5f2432edb5471d
+  - enabled: 1
+    path: Assets/Scenes/9_CityScene_OLD.unity
+    guid: 4eb49cdbe568e3a4d8309d2be6a9e84b
+  - enabled: 1
+    path: Assets/Scenes/10_OracleScene_OLD.unity
+    guid: 7457b384f568a124d99538b850071002
+  - enabled: 1
+    path: Assets/Scenes/11_CreationScene.unity
+    guid: b251c61e94cf8b749802e3624f298ee7
+  m_configObjects: {}
